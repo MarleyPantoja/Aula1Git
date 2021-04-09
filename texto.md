@@ -4,4 +4,4 @@ Olá mundo!
 
 ## body
 
-Estou aprendendo o gitHub
+Estou aprendendo o git
